@@ -1,4 +1,4 @@
-# Bug-report
+# Bug-Report
 ![bug report](https://user-images.githubusercontent.com/110155155/183834854-23a05d69-100a-4123-a1e5-f68eb48c664e.PNG)
 # Регрессионное тестирование 
 ![reg](https://user-images.githubusercontent.com/110155155/183835377-a255b5f9-b92a-45ed-9e08-2aedca079f05.PNG)
